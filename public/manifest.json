@@ -1,0 +1,9 @@
+{
+  "name": "NautiForm",
+  "short_name": "NautiForm",
+  "description": "Maritime Assistant for Seafarers",
+  "start_url": "/nautiform/",
+  "display": "standalone",
+  "background_color": "#09090f",
+  "theme_color": "#00AEEF"
+}
